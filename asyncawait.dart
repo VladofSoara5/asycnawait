@@ -140,6 +140,8 @@ List<Map> nilaiFungsi(
     print('Nama saya ${d['nama']}, umur ${d['umur']}, berat saya ${d['berat']}');
   }
 
+//tamatlah sudah alkisah kami
+
 
   // List jawaban=[ '','',''];
   // for (var i = 0; i < jawaban.length; i++) {
